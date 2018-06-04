@@ -1,0 +1,29 @@
+body {
+  font-size: 10px;
+}
+
+table.bordasimples{ 
+ border-collapse: collapse;
+}
+
+table.bordasimples tr td th {
+  border:1px solid #666666;font-size:11px;font-family:verdana; 
+}
+
+.rotulo{ 
+  font-weight:bold;
+}
+
+.titulo{
+ font-size:14px; 
+}
+
+table.bordasimples tr td{
+  height:30px; 
+}
+
+.dadosEmpresa{
+	font-size:10px;
+	font-family:arial;
+	line-height:15px;   
+}
